@@ -1,0 +1,444 @@
+[
+    {
+        "offers": {
+            "price": "95000000",
+            "@type": "Offer",
+            "priceCurrency": "IRR"
+        },
+        "@type": "Product",
+        "url": "https://divar.ir/v/ایفون-17پرومکس-طرح-اصلی/gap8xj2L",
+        "@context": "https://schema.org",
+        "web_info": {
+            "category_slug_persian": "موبایل",
+            "title": "ایفون 17پرومکس طرح اصلی",
+            "city_persian": "یزد"
+        },
+        "name": "ایفون 17پرومکس طرح اصلی",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/rzFg7bqtBkmF5WURzYrQWg/02cf89ba-96b1-47a9-9678-14f1ad500994.webp",
+        "category": "mobile-phones"
+    },
+    {
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/PQPTHeOmPxY5MXW2amQwfw/ad643b67-2ac4-4ce2-85e5-3b22d8d82575.webp",
+        "category": "mobile-phones",
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "IRR",
+            "price": "210000000"
+        },
+        "@type": "Product",
+        "@context": "https://schema.org",
+        "url": "https://divar.ir/v/گوشی-شیاومی-m4pro-256-ram-8-معاوضه/gav8vBuK",
+        "web_info": {
+            "title": "گوشی شیاومی m4pro 256 ram 8 معاوضه",
+            "city_persian": "خرم‌آباد",
+            "category_slug_persian": "موبایل"
+        },
+        "name": "گوشی شیاومی m4pro 256 ram 8 معاوضه"
+    },
+    {
+        "@type": "Product",
+        "url": "https://divar.ir/v/سامسونگs23الترا/gav4_4s0",
+        "web_info": {
+            "title": "سامسونگs23الترا",
+            "city_persian": "بروجرد",
+            "category_slug_persian": "موبایل"
+        },
+        "name": "سامسونگs23الترا",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/PPmm1O1uoqkc8Gd3Zo6umw/5b429673-27fb-4f7e-9fa1-87a8af59b929.webp",
+        "@context": "https://schema.org",
+        "category": "mobile-phones",
+        "offers": {
+            "priceCurrency": "IRR",
+            "price": "1380000000",
+            "@type": "Offer"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/IlpuykA-3tPVvyaxL9uT8Q/43837699-aa5b-4693-8962-58c68889297e.webp",
+        "category": "mobile-phones",
+        "url": "https://divar.ir/v/گوشی-سامسونگ-m32-۱۲۸g/gav8vByS",
+        "web_info": {
+            "title": "گوشی سامسونگ m32 ۱۲۸g",
+            "city_persian": "ارومیه",
+            "category_slug_persian": "موبایل"
+        },
+        "name": "گوشی سامسونگ m32 ۱۲۸g",
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "IRR",
+            "price": "150000000"
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "web_info": {
+            "category_slug_persian": "موبایل",
+            "title": "طرح سامسونگ s24ultra/قلم فعال+دوربین 48 مگاپیکسل",
+            "city_persian": "تبریز"
+        },
+        "name": "طرح سامسونگ s24ultra/قلم فعال+دوربین 48 مگاپیکسل",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/nxDgNlSvRI1lAQwWKhZNvg/f208b6fe-e03d-4c20-8821-bbdae87547dd.webp",
+        "category": "mobile-phones",
+        "offers": {
+            "price": "59800000",
+            "@type": "Offer",
+            "priceCurrency": "IRR"
+        },
+        "url": "https://divar.ir/v/طرح-سامسونگ-s24ultra-قلم-فعال-دوربین-48-مگاپیکسل/Qax_KpT7"
+    },
+    {
+        "offers": {
+            "price": "23000000",
+            "@type": "Offer",
+            "priceCurrency": "IRR"
+        },
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "category": "mobile-phones",
+        "url": "https://divar.ir/v/سامسونگ-b315e-دوسیم-کارت-رمخور-فاقد-دوربین/Qadu1xV_",
+        "web_info": {
+            "title": "سامسونگ b315e دوسیم کارت رمخور فاقد دوربین",
+            "city_persian": "ارومیه",
+            "category_slug_persian": "موبایل"
+        },
+        "name": "سامسونگ b315e دوسیم کارت رمخور فاقد دوربین",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/dMRyUwX6SsXek7R2TKoDiQ/6db72c99-9bd3-46b1-b009-7f7db057685c.jpg.webp"
+    },
+    {
+        "url": "https://divar.ir/v/s25-ultra-آکبند-ریجستر-شده/gav4_6E2",
+        "web_info": {
+            "title": "S25 ultra  آکبند ریجستر شده",
+            "city_persian": "مشهد",
+            "district_persian": "بهشت",
+            "category_slug_persian": "موبایل"
+        },
+        "name": "S25 ultra  آکبند ریجستر شده",
+        "offers": {
+            "price": "2370000000",
+            "@type": "Offer",
+            "priceCurrency": "IRR"
+        },
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/bhBDIttmKo5B5o5WcEH_3w/5061baa9-c7f4-4bd7-80c2-f390ac497a38.webp",
+        "category": "mobile-phones"
+    },
+    {
+        "web_info": {
+            "category_slug_persian": "موبایل",
+            "title": "خرید و فروش اقساط اپل 12 13 14 15 17 iPhone 16",
+            "city_persian": "تهران",
+            "district_persian": "هروی"
+        },
+        "name": "خرید و فروش اقساط اپل 12 13 14 15 17 iPhone 16",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/2boaOgT4v7bUtaYnv9QRwA/a11fbb12-6f07-4bcd-b305-4b6df38d3e03.jpg.webp",
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "IRR",
+            "price": "1650000000"
+        },
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "url": "https://divar.ir/v/خرید-و-فروش-اقساط-اپل-12-13-14-15-17-iphone-16/QanLzGWM",
+        "category": "mobile-phones"
+    },
+    {
+        "name": "گوشی پوکو poco x6 pro",
+        "@context": "https://schema.org",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/bGQxDHspmpJ6Yglj0gBoDw/3410eda6-e92f-4d01-8f45-1787f7c57dcf.webp",
+        "category": "mobile-phones",
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "IRR",
+            "price": "420000000"
+        },
+        "@type": "Product",
+        "url": "https://divar.ir/v/گوشی-پوکو-poco-x6-pro/gav4P-q4",
+        "web_info": {
+            "title": "گوشی پوکو poco x6 pro",
+            "city_persian": "چمران",
+            "category_slug_persian": "موبایل"
+        }
+    },
+    {
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/tho1Ge2iTBJuo3KKH_USmw/0922c3ec-c24b-4a45-9e7a-c31a8ff8fd7f.webp",
+        "category": "mobile-phones",
+        "@context": "https://schema.org",
+        "url": "https://divar.ir/v/شیائومی-پوکو-poco-x7-pro-حافظه-512-رم12/gav4f3mL",
+        "web_info": {
+            "category_slug_persian": "موبایل",
+            "title": "شیائومی پوکو poco X7 pro حافظه 512 رم12",
+            "city_persian": "شیراز",
+            "district_persian": "شهرک قمشه"
+        },
+        "name": "شیائومی پوکو poco X7 pro حافظه 512 رم12",
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "IRR",
+            "price": "710000000"
+        },
+        "@type": "Product"
+    },
+    {
+        "@type": "Product",
+        "url": "https://divar.ir/v/آیفون۱۱پرومکس-۲۵۶g/gav4f5is",
+        "name": "آیفون۱۱پرومکس ۲۵۶G",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/z5n9hHrNywq2ntE36P7ycw/13cd3857-797f-4ce3-b3c2-935feddfa5e9.webp",
+        "category": "mobile-phones",
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "IRR",
+            "price": "680000000"
+        },
+        "@context": "https://schema.org",
+        "web_info": {
+            "title": "آیفون۱۱پرومکس ۲۵۶G",
+            "city_persian": "خرم‌آباد",
+            "category_slug_persian": "موبایل"
+        }
+    },
+    {
+        "url": "https://divar.ir/v/-ایفون-در-موبایل-۹۱۷-قیمت-مناسب-گارانتی-اصلی/gav4f8ML",
+        "web_info": {
+            "title": "/ایفون در موبایل ۹۱۷ قیمت مناسب + گارانتی اصلی",
+            "city_persian": "بندرعباس",
+            "category_slug_persian": "موبایل"
+        },
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/eEnCeDLZMF8bSE_tAtG2Nw/321a9dbc-c577-48ab-91f2-0e22c0c92974.webp",
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "IRR",
+            "price": "129000000"
+        },
+        "@context": "https://schema.org",
+        "name": "/ایفون در موبایل ۹۱۷ قیمت مناسب + گارانتی اصلی",
+        "category": "mobile-phones",
+        "@type": "Product"
+    },
+    {
+        "web_info": {
+            "category_slug_persian": "موبایل",
+            "title": "گوشی فول کپی S25 Ultra",
+            "city_persian": "اهواز",
+            "district_persian": "۲۴ متری"
+        },
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/U_Ps2hqJ-bkHNl61ae7_Mw/d142824d-623c-4f51-8287-ca24a97e762e.webp",
+        "category": "mobile-phones",
+        "@type": "Product",
+        "name": "گوشی فول کپی S25 Ultra",
+        "offers": {
+            "price": "235000000",
+            "@type": "Offer",
+            "priceCurrency": "IRR"
+        },
+        "@context": "https://schema.org",
+        "url": "https://divar.ir/v/گوشی-فول-کپی-s25-ultra/gav4P8IH"
+    },
+    {
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "IRR",
+            "price": "910000000"
+        },
+        "@context": "https://schema.org",
+        "url": "https://divar.ir/v/۱۳-نرمال/garIsoFP",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/46YaFtFjx5A0CRpo7XPHoQ/1bfd8e92-b0c0-4dc8-8ddc-09bb0348928a.webp",
+        "category": "mobile-phones",
+        "@type": "Product",
+        "web_info": {
+            "title": "۱۳ نرمال",
+            "city_persian": "تهران",
+            "district_persian": "آسمان",
+            "category_slug_persian": "موبایل"
+        },
+        "name": "۱۳ نرمال"
+    },
+    {
+        "category": "mobile-phones",
+        "@type": "Product",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/1OxZq2npogDFmAC6cMJo0w/af834758-c2ce-47e9-a0e1-312aa9f5a44d.webp",
+        "offers": {
+            "price": "95000000",
+            "@type": "Offer",
+            "priceCurrency": "IRR"
+        },
+        "@context": "https://schema.org",
+        "url": "https://divar.ir/v/هواوی-y7p-2020/gav0f0h8",
+        "web_info": {
+            "city_persian": "کرج",
+            "district_persian": "شهرک نهال و بذر",
+            "category_slug_persian": "موبایل",
+            "title": "هواوی. y7p.   2020"
+        },
+        "name": "هواوی. y7p.   2020"
+    },
+    {
+        "category": "mobile-phones",
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "IRR",
+            "price": "60000000"
+        },
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/berwIUERCC1PZcBY2y3S8w/46699527-8022-40d7-b7b7-d06d3154bbae.webp",
+        "url": "https://divar.ir/v/گوشی-موبایل-سامسونگ/gav4P5kU",
+        "web_info": {
+            "title": "گوشی موبایل سامسونگ",
+            "city_persian": "تهران",
+            "district_persian": "هاشمی",
+            "category_slug_persian": "موبایل"
+        },
+        "name": "گوشی موبایل سامسونگ"
+    },
+    {
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "IRR",
+            "price": "215000000"
+        },
+        "@type": "Product",
+        "web_info": {
+            "category_slug_persian": "موبایل",
+            "title": "گوشی a07",
+            "city_persian": "یاسوج"
+        },
+        "name": "گوشی a07",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/8vLQZmj1nVp3jXRLKOL13g/5cc8acec-f9d1-47f7-b354-3ce73f1b9272.webp",
+        "@context": "https://schema.org",
+        "url": "https://divar.ir/v/گوشی-a07/gav4v3tq",
+        "category": "mobile-phones"
+    },
+    {
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/qjyePwCGBpqrniOdF9TQ4Q/c6cafe76-09e6-4c71-900c-cc19cb06018d.webp",
+        "category": "mobile-phones",
+        "@context": "https://schema.org",
+        "url": "https://divar.ir/v/شیاومی/gav4_0A8",
+        "web_info": {
+            "title": "شیاومی",
+            "city_persian": "اسلام‌‌آباد غرب",
+            "category_slug_persian": "موبایل"
+        },
+        "name": "شیاومی",
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "IRR",
+            "price": "10000"
+        },
+        "@type": "Product"
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "۱۳نرمال باطری ۸۹ پلمپ",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/XYwjLODTum88Y10cDL_mSA/3654e4ee-9ba7-4236-bd96-571ce4e8b882.webp",
+        "category": "mobile-phones",
+        "offers": {
+            "priceCurrency": "IRR",
+            "price": "980000000",
+            "@type": "Offer"
+        },
+        "url": "https://divar.ir/v/۱۳نرمال-باطری-۸۹-پلمپ/gav4Pzu4",
+        "web_info": {
+            "city_persian": "تبریز",
+            "category_slug_persian": "موبایل",
+            "title": "۱۳نرمال باطری ۸۹ پلمپ"
+        }
+    },
+    {
+        "category": "mobile-phones",
+        "@type": "Product",
+        "web_info": {
+            "title": "ردمی نوت 12 در حدنو صفر",
+            "city_persian": "ارومیه",
+            "category_slug_persian": "موبایل"
+        },
+        "name": "ردمی نوت 12 در حدنو صفر",
+        "offers": {
+            "price": "195000000",
+            "@type": "Offer",
+            "priceCurrency": "IRR"
+        },
+        "@context": "https://schema.org",
+        "url": "https://divar.ir/v/ردمی-نوت-12-در-حدنو-صفر/gav4_y6i",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/0gT80ds_ObdnpMoyblpCQg/7007497a-17bf-4a20-bd8f-dc0cce96e7ef.webp"
+    },
+    {
+        "@type": "Product",
+        "url": "https://divar.ir/v/گوشیa17/gav4vwo3",
+        "web_info": {
+            "title": "گوشیA17",
+            "city_persian": "مشهد",
+            "district_persian": "گاز",
+            "category_slug_persian": "موبایل"
+        },
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/_D5Smjax2jGh7QB5mQtc_Q/fe4dfd05-6592-4dd2-a6ea-2640314e5a9b.webp",
+        "offers": {
+            "priceCurrency": "IRR",
+            "price": "500000000",
+            "@type": "Offer"
+        },
+        "@context": "https://schema.org",
+        "name": "گوشیA17",
+        "category": "mobile-phones"
+    },
+    {
+        "name": "ایفون X",
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/FQfkhm4Mu5xyayGiR9ZucQ/4e3cddd0-7fa4-4164-a592-0640b5a28b1c.webp",
+        "offers": {
+            "priceCurrency": "IRR",
+            "price": "250000000",
+            "@type": "Offer"
+        },
+        "@context": "https://schema.org",
+        "category": "mobile-phones",
+        "@type": "Product",
+        "url": "https://divar.ir/v/ایفون-x/gav4vucd",
+        "web_info": {
+            "city_persian": "بندرعباس",
+            "category_slug_persian": "موبایل",
+            "title": "ایفون X"
+        }
+    },
+    {
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/3ris4iN7wJYHuPR280e32w/45d1340b-93ca-415c-a370-b7423c96438e.webp",
+        "category": "mobile-phones",
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "IRR",
+            "price": "270000000"
+        },
+        "@context": "https://schema.org",
+        "url": "https://divar.ir/v/موبایل-شیائومی-mi-11-lite-5g-ne/gav4ftPc",
+        "web_info": {
+            "title": "موبایل شیائومی mi 11 lite 5G ne",
+            "city_persian": "تهران",
+            "district_persian": "حکیمیه",
+            "category_slug_persian": "موبایل"
+        },
+        "name": "موبایل شیائومی mi 11 lite 5G ne",
+        "@type": "Product"
+    },
+    {
+        "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/WDUc32Y9uhT8RW5uc040bQ/9dcf9b25-f366-4759-a816-093e2cc57578.webp",
+        "category": "mobile-phones",
+        "url": "https://divar.ir/v/s26-ultra-اقساط/gaMgIdhd",
+        "web_info": {
+            "city_persian": "تهران",
+            "district_persian": "جمهوری",
+            "category_slug_persian": "موبایل",
+            "title": "S26 Ultra اقساط"
+        },
+        "name": "S26 Ultra اقساط",
+        "offers": {
+            "priceCurrency": "IRR",
+            "price": "1518000000",
+            "@type": "Offer"
+        },
+        "@context": "https://schema.org",
+        "@type": "Product"
+    }
+]
