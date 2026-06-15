@@ -40,8 +40,9 @@ _example/HosseinHesari
 ├── run.sh ← فایل اجرای پروژه
 ├── README.md           
 └── charts/
+    ├── charts.md
     ├── average_prices_bar_plot.png
-    └── brand_counts_bar_plot.png
+    └── brand_counts_bar_plot.pn
 └── divar_requests_data/
   ├──ads_data_clean.json
   └── data.csvdata.csv
